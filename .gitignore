@@ -1,0 +1,11 @@
+venv
+tmp
+*.pyc
+.idea
+.pytest_cache
+.hypothesis
+logs
+old_logs
+.cache
+*.html
+*.sh
