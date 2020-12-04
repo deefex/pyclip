@@ -1,6 +1,6 @@
 #### Introduction
 
-This is a quick and simplified python 3.x rewrite of James Bach's original PerlCip tool which generates a counterstring with a length of your choosing. For those unfamiliar with the concept when you look at a counterstring it's easy to determine the character position by virtue of the markers. 
+This is a quick and simplified python 3.x rewrite of James Bach's original PerlClip tool which generates a counterstring with a length of your choosing. For those unfamiliar with the concept when you look at a counterstring it's easy to determine the character position by virtue of the markers. 
 
 It can come in very handing when testing text fields where the strings may be truncated but you can still tell how many characters are in the string.
 
